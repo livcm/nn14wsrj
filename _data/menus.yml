@@ -1,5 +1,8 @@
 - title: "主页"
-  url:   ""
+  url: ""
 
 - title: "人物志"
-  url:   ""
+  url: "biography"
+
+- title: "小说"
+  url: "novel"
