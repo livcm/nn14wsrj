@@ -1,7 +1,7 @@
-remote_theme: pages-themes/
+remote_theme: ghosind/Jekyll-Paper-Github
 plugins:
 - jekyll-remote-theme
-title: "琐记Online (Beta版)"
+title: "琐记Online（Beta版）"
 show_downloads: false
 author: OP
 lang: zh-CN
