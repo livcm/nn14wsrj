@@ -1,0 +1,7 @@
+remote_theme: pages-themes/
+plugins:
+- jekyll-remote-theme
+title: "琐记Online (Beta版)"
+show_downloads: false
+author: OP
+lang: zh-CN
