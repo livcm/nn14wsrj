@@ -1,0 +1,2 @@
+- [看看卤蟀](novels/kkl.md)
+- [故事接龙 第一弹](novels/gsj.md)
