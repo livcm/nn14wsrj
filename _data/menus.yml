@@ -1,8 +1,8 @@
-- title: "主页"
+- title: "琐戒"
   url: ""
 
-- title: "人物志"
-  url: "bio"
+- title: "本篇"
+  url: "origin"
 
 - title: "杂文"
   url: "articles"
