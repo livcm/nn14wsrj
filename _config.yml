@@ -1,8 +1,8 @@
 remote_theme: ghosind/Jekyll-Paper-Github
 plugins:
 - jekyll-remote-theme
-title: "琐记Online（Beta版）"
+title: "琐记Online（Beta）"
 show_downloads: false
-author: OP
+author: LXY
 lang: zh-CN
 domain: "nn14wsrj"
